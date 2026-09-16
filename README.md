@@ -1,7 +1,7 @@
 # IPONOMIKS
 
 **IPONOMIKS** is a simple student budget and expense tracker built in Python.
-The name combines *"ipon"* (Filipino for savings) and *"economics"* — reflecting
+The name combines *"ipon"* (Filipino for savings) and *"economics"* reflecting
 the app's goal of helping students manage their money.
 
 This repository currently contains the **initial console-based prototype**.
@@ -13,8 +13,8 @@ version is built out.
 ## Purpose
 
 Students often struggle to keep track of where their allowance or budget
-goes. IPONOMIKS lets a user set a monthly budget, log expenses by category,
-and immediately see how much of their budget remains — helping them spot
+goes. IPONOMIKS lets a user (students) set a monthly budget, log expenses by category,
+and immediately see how much of their budget remains helping them spot
 overspending before it happens.
 
 ---
@@ -84,4 +84,4 @@ iponomiks/
 
 ## Author
 
-Developed as a student project.
+Developed as a initial working prototype project.
