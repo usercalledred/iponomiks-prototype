@@ -4,18 +4,16 @@
 The name combines *"ipon"* (Filipino for savings) and *"economics"* — reflecting
 the app's goal of helping students manage their money.
 
-This repository currently contains the **initial console-based prototype**.
-It demonstrates the core idea of the system before the full graphical
-version is built out.
+IPONOMIKS provides students with a lightweight desktop application that allows them to 
+create a named budget tracker for a specific month, log individual expenses under a 
+category with an optional description and amount.
 
 ---
 
 ## Purpose
 
-Students often struggle to keep track of where their allowance or budget
-goes. IPONOMIKS lets a user set a monthly budget, log expenses by category,
-and immediately see how much of their budget remains — helping them spot
-overspending before it happens.
+To develop an easy-to-use system for tracking and budgeting that will assist students in keeping 
+an eye on their monthly budget and allowance, documenting their expenses as they happen
 
 ---
 
